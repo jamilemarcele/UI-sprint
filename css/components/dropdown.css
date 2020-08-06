@@ -2,6 +2,6 @@
   box-shadow: none;
 }
 .dropdown-menu a {
-  font-weight: lighter !important;
+  font-weight: lighter !important; /* using !important - we are going to override the bootstrap specification */
   color: #E6E6E6 !important;
 }
